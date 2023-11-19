@@ -4,7 +4,13 @@ The Turbo Zip-Cracker is an efficient and powerful tool designed for swiftly and
 
 Debain Linux:
 
-Python3 Turbo-Zip_cracker -f (Password protected File path) -w (Path to wordlist)
+Step 1: sudo apt-get install python3-pip
+
+
+Step 2: pip install -r requirements.txt 
+
+
+Step 3: Python3 Turbo-Zip_cracker -f (Password protected File path) -w (Path to wordlist)
 
 
 Windows Operating system:
