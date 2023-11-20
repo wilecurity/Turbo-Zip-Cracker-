@@ -13,5 +13,9 @@ Step 2: pip install -r requirements.txt
 Step 3: Python3 Turbo-Zip_cracker -f (Password protected File path) -w (Path to wordlist)
 
 
-Windows Operating system:
+
+
+Windows Operating system: Coming Soon...............
+
+
 
